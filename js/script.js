@@ -48,7 +48,7 @@ function generateTitleLinks(customSelector =''){
   /*[DONE] remove contents of titleList */
   const titleList = document.querySelector (optTitleListSelector + customSelector);
   document.querySelector(optTitleListSelector).innerHTML ='';
-  /*[IN PROGRESS] for each article */
+  /*[DONE] for each article */
   const articles = document.querySelectorAll(optArticleSelector);
   let html = '';
   for(let article of articles){
