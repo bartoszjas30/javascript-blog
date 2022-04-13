@@ -122,7 +122,6 @@ body {
 
 /*tags*/
 
-
 .tags {
   text-align: center;
 }
@@ -134,9 +133,7 @@ body {
   padding: 2px;
 }
 
-.tags li a {
-  color: rgb(95, 233, 222);
-}
+
 
 .tag-size-1 {
   font-size: 18px;
@@ -150,15 +147,15 @@ body {
 
 .tag-size-3 {
   font-size: 26px;
-  color: rgb(255, 244, 86);
+  color: rgb(169, 223, 130);
 }
 
 .tag-size-4 {
   font-size: 30px;
-  color: rgb(86, 255, 218);
+  color: red
 }
 
 .tag-size-5 {
   font-size: 34px;
-  color: rgb(0, 163, 238);
+  color: rgb(113, 113, 213)
 }
